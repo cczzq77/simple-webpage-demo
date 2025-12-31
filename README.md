@@ -13,3 +13,6 @@ Simple HTML &amp; CSS &amp; JavaScript Webpage Demo
 
 ## Live Demo
 https://cczzq77.github.io/simple-webpage-demo/
+
+## Author
+Casey Zhong

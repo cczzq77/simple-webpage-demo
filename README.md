@@ -5,3 +5,8 @@ Simple HTML &amp; CSS &amp; JavaScript Webpage Demo
 - Semantic HTML structure: `<header>`, `<nav>`, `<section>`, `<aside>`, `<article>`, `<footer>`
 - Responsive layout design using Flexbox
 - Cross-browser compatibility
+
+## Tech Stack
+- HTML5
+- CSS3
+- JavaScript (Browser JavaScript)
